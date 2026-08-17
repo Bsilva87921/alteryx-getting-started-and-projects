@@ -35,4 +35,6 @@ This repository teaches new users how to use Alteryx and showcases real projects
 - Analytical Innovation (AI)  
 - Risk Management  
 
-This repo shows how Alteryx can automate analytics, improve data quality, and generate dashboards that support decision-making.
+This repo shows how Alteryx can automate analytics, improve data quality, and generate dashboards that support decision-making. Below are just some brief examples:
+
+
